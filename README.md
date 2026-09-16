@@ -9,16 +9,15 @@ builds → Experience → Competencies → Recognition → Contact.
 
 ---
 
-## 1. Add your photos (the only step left)
+## 1. Photos
 
-Put two files in `assets/img/`:
+Both are in `assets/img/` and live on the page:
 
-- `headshot.jpg` — the professional headshot (hero, top right)
-- `sumedha-city.jpg` — the San Francisco photo (experience sidebar)
+- `headshot.jpg` — hero, top right (arch frame)
+- `sumedha-city.jpg` — experience sidebar
 
-See `assets/img/README.md` for crops and sizing. Until they're added, both
-slots show a designed orange/yellow monogram placeholder, so nothing looks
-broken.
+See `assets/img/README.md` to swap or re-crop them. If a file is ever missing,
+its slot falls back to a designed orange/yellow monogram rather than breaking.
 
 ## 2. Publish it (free, ~2 minutes)
 
